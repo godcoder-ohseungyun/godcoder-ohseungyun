@@ -15,4 +15,5 @@
 # Skills
 
 ---
+<img width="703" alt="image" src="https://user-images.githubusercontent.com/68331041/190058509-6f4297b8-2e29-4626-a245-540501bed78d.png">
 
