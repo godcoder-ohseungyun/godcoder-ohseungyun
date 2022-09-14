@@ -14,31 +14,5 @@
 
 </br>
 
-> ***skill level 을 참고하여 기술 별 성취도를 상세확인해 주시길 바랍니다!**
-> 
-
-> **(B) - 기본적인 경험이 있지만 보완이 필요한 상태**
-> 
-
-> **(A) - 관련 경험이 풍부하고 주도적으로 수행이 가능한 수준**
-> 
-
-**Backend**
-
-`Java (A)`,  `Spring Boot`,  `Spring MVC (A)`,  `Spring Data JPA (B+)`,  `MSSQL (B)`,  `Junit5 (B)`
-
-**DevOps**
-
-`AWS - EC2, RDS (B)`, `Git Action  (A)`, `Docker (B+)`
-
-**Frontend**
-
-`HTML5, CSS3 (A)`, `Vue.js (B)`
-
-**Collaboration Tools**
-
-`Sourcetree (A)`
-
-</br>
 
 이곳으로 오시면 보유 기술 수준 , 프로젝트 활동 기록 , 대외활동 등 이 담긴 [원페이퍼 이력서](https://www.notion.so/a123b87b33c54a40ac6f54b296f5f8a9)를 보실 수 있습니다.
